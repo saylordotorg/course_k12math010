@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH010: Geometry"
+course_description: "This course looks at geometric figures that we see in everyday life to understand the patterns in their attributes and how their measures relate to these patterns. It expands on the basic geometric concepts learned in previous math courses by applying these concepts in new contexts."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "K12MATH010: Geometry"
 ------------------------------------------
 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH010: Geometry"
+course_description: "This course looks at geometric figures that we see in everyday life to understand the patterns in their attributes and how their measures relate to these patterns. It expands on the basic geometric concepts learned in previous math courses by applying these concepts in new contexts."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Extending to Three Dimensions** <span id="3"></span> 
 *You’ve made it to the third dimension! In the first two units, you
 reviewed some of the important properties of two-dimensional figures and

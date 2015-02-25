@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH010: Geometry"
+course_description: "This course looks at geometric figures that we see in everyday life to understand the patterns in their attributes and how their measures relate to these patterns. It expands on the basic geometric concepts learned in previous math courses by applying these concepts in new contexts."
+next: ../../../
+previous: ../Unit05
+---
 **Unit 6: Applications of Probability** <span id="6"></span> 
 *Ever played darts? Geometric probability helps us understand the
 likelihood of hitting the bull’s-eye. Ever taken a train or a bus to

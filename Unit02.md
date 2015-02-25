@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH010: Geometry"
+course_description: "This course looks at geometric figures that we see in everyday life to understand the patterns in their attributes and how their measures relate to these patterns. It expands on the basic geometric concepts learned in previous math courses by applying these concepts in new contexts."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Similarity, Proof, and Trigonometry** <span id="2"></span> 
 *Pilots trying to avoid collisions with mountains, engineers trying to
 build safe suspension bridges, surveyors trying to assist with city
