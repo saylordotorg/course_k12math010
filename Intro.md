@@ -158,3 +158,4 @@ on Wednesday and Thursday nights, and so forth.
 - [Unit 4](https://legacy.saylor.org/k12math010/Unit04/)
 - [Unit 5](https://legacy.saylor.org/k12math010/Unit05/)
 - [Unit 6](https://legacy.saylor.org/k12math010/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/K12/K12MATH010/K12MATH010-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/K12/K12MATH010/K12MATH010-FinalExam-Answers.html)
