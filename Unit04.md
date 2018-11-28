@@ -710,7 +710,7 @@ problems, and investigatory work.
     each one. At this point in the course we have not discussed circles,
     but you should be familiar with the formulas for circumference and
     for area of circles. After you have completed each figure, click
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/05/K12MATHGEOM-4.2.7-AnswerKeyForCheckPoint.pdf)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/K12MATHGEOM-4.2.7-AnswerKeyForCheckPoint.pdf)
     to check your answers.  
         
      Completing this activity should take approximately 1 hour.  
